@@ -1,0 +1,16 @@
+# CubeMiniインストール方法
+- 外付けSSDを外しておく
+- 電源を接続
+- ホスト機(USBtypeA)-(USBtypeC)CubeMiniで接続しておく
+- CubeMiniの側面または背面ボタンの真ん中を押しながら電源ボタンを押すとリカバリモードで起動
+- Aiinside/cubemini_install
+- ホスト機のデスクトップに
+- CubeMiniのインストール手順
+- SSDフォーマット手順（SSDフォーマットとは、フォーマットと共にDBのデータを書き込んだり、ディレクトリを作成する（/externalの環境を構成する））
+- あり
+- インストール手順書の②とか①の"sh /home/cubemini_install/Cube_mini_install.sh MF(またはDXNXなど) 22.01
+- を実行する（時間がかかる）
+- リカバリのスクリプト完了後、ホスト機(USBtypeA)-(USBtypeC外付けSSD に差し替える
+- ホスト機のデスクトップのSSDフォーマット手順.txtのコマンド（sh スクリプト）を実行
+- 完了したら外付けSSDをCubeMiniに接続する
+- 
